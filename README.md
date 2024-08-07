@@ -11,5 +11,15 @@
  * Image Optimization 
  * Minification 
  * Bundling 
+ * compressing
+ * consistent Hashing 
+ * Code splitting 
+ * Differential Bundling - support old browsers 
+ * Diagonistic 
+ * Error Handling 
+ * Https
+ * Tree shaking  - renove unused code 
  
+
+
 
